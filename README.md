@@ -6,5 +6,5 @@ Technologies used:
 > AWS |
 > Airflow |
 > SnowFlake |
-> DBT
+> DBT |
 
